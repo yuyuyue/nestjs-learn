@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/yuyuyue/nestjs/issues"
   },
-  "homepage": "https://github.com/yuyuyue/nestjs#readme"
+  "homepage": "https://github.com/yuyuyue/nestjs#readme",
+  "dependencies": {
+    "@nestjs/typeorm": "^10.0.1",
+    "mysql2": "^3.6.5",
+    "npm": "^10.2.4",
+    "typeorm": "^0.3.17"
+  }
 }
